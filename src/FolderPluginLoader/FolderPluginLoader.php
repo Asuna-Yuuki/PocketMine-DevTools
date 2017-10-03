@@ -15,7 +15,7 @@
  * GNU General Public License for more details.
 */
 
-namespace FolderPluginLoader;
+namespace pocketmine\plugin;
 
 use pocketmine\event\plugin\PluginDisableEvent;
 use pocketmine\event\plugin\PluginEnableEvent;
